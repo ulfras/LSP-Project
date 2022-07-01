@@ -1,0 +1,6 @@
+framework module Pods_DependencyReuse {
+  umbrella header "Pods-DependencyReuse-umbrella.h"
+
+  export *
+  module * { export * }
+}
